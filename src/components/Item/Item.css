@@ -1,0 +1,14 @@
+.cardProductos{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+
+.imgCelulares {
+        height: 200px;
+        max-width: 20%;
+}
+picture {
+    display: contents;
+}

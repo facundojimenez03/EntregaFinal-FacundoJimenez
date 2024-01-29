@@ -1,0 +1,8 @@
+.carrito{
+    margin-top: 68px;
+    height: 20px;
+  }
+  div {
+    display: flex;
+    flex-direction: column;
+  }

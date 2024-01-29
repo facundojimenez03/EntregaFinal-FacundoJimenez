@@ -1,0 +1,18 @@
+.Card-Body {
+    align-self: center;
+    width: 56%;
+    text-align: -webkit-center;
+    
+   
+   
+} 
+
+.detallesCard{
+    width: 360px;
+    position: relative;
+    left: 40%;
+    display: -webkit-inline-box;
+    
+    
+}
+
